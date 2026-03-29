@@ -1,4 +1,4 @@
-# Hi, I'm Hitansh.
+# Hi, I'm Hitansh
 
 🎓 B.Tech Student at VIT Bhopal University  
 📚 Branch: Btech CSE AIML 
